@@ -1,0 +1,6 @@
+streamlit>=1.37
+rdkit
+plotly
+pandas
+reportlab
+pytest
